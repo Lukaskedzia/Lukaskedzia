@@ -1,5 +1,9 @@
 # Hi, I'm Lukas Kedzia 👋
 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Data Science](https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge)
+
 Welcome to my GitHub profile! I’m a mathematics student with a strong interest in data science, software development, and machine learning. I’m always looking to deepen my understanding in these fields and work on projects that make a difference.
 
 ## 🔍 About Me
