@@ -7,18 +7,17 @@
 Welcome to my GitHub profile! I’m a mathematics student with a strong interest in data science, software development, and machine learning. I’m always looking to deepen my understanding in these fields and work on projects that make a difference.
 
 ## 🔍 About Me
-- 🧠 Studying Mathematics with a focus on Numerics and Probability Theory at Ruhr-Universität Bochum
+- 🧠 Studying Mathematics with a focus on Probability Theory at Ruhr-Universität Bochum
 - 🌱 Learning: Java, React Native, and Firebase integration
 - 🎯 Career Goal: Become a Data Scientist in Germany with a focus on anomaly detection and predictive modeling
 - 📫 Reach me: [Lukas.Kedzia@rub.de](mailto:Lukas.Kedzia@rub.de) | Instagram: [luked_1806](https://www.instagram.com/luked_1305/)
 
 ## 🚀 Projects
 
-### [FoodBuddy](https://github.com/your-foodbuddy-repo-link)
-A React Native app designed to help users manage their food inventory efficiently. Features include:
-- Barcode scanning with automatic expiration date recognition
-- Ingredient-based recipe suggestions to reduce waste
-- Shopping list integration and automated notifications for expiring items
+### Martingales
+Conditional Expectations, Martingales and Limit Theorems — implemented, simulated and verified in Python.
+
+> A research-style project exploring conditional expectation as a projection operator, martingale structures, stopping times and stochastic limit theorems through simulation and numerical experiments.
 
 ### Wirecard Anomaly Detection
 A data science project focused on anomaly detection in stock market data, inspired by the Wirecard scandal. Key elements include:
@@ -37,10 +36,7 @@ A data science project focused on anomaly detection in stock market data, inspir
 - **Machine Learning**: Scikit-Learn, TensorFlow, Keras (beginner level)
 - **Databases**: Firebase, SQL (basics)
 
-## 🌟 Goals
-- Build a comprehensive portfolio in data science and software development
-- Expand knowledge in anomaly detection, NLP, and time series analysis
-- Contribute to open-source pro
+
 
 
 <!---
