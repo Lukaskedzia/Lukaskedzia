@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m a mathematics student with a strong interest
 - 🧠 Studying Mathematics with a focus on Probability Theory at Ruhr-Universität Bochum
 - 🌱 Learning: Java, React Native, and Firebase integration
 - 🎯 Career Goal: Become a Data Scientist in Germany with a focus on anomaly detection and predictive modeling
-- 📫 Reach me: [Lukas.Kedzia@rub.de](mailto:Lukas.Kedzia@rub.de) | Instagram: [luked_1806](https://www.instagram.com/luked_1305/)
+- 📫 Reach me: [Lukas.Kedzia@rub.de](mailto:Lukas.Kedzia@rub.de) | Instagram: [luked_1305](https://www.instagram.com/luked_1305/)
 
 ## 🚀 Projects
 
